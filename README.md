@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h1 align="center"><b>VoidStrap (DARKHOLEUM Edition)</b></h1>
+<h1 align="center"><b>VoidStrap</b></h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/KloBraticc/RandomMods/main/Untitled%20design%20(2)-Photoroom.png" alt="preview" width="100%"/>
